@@ -26,4 +26,4 @@ $ node index.js
 Configure the rtsp streaming settings, including stream URL, access credentials, and Region of Interest.
 
 - **/wifiConfig:**
-Configure the wifi settings, including the SSID, password
+Configure the wifi settings, including the SSID and password.
