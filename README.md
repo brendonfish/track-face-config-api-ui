@@ -1,5 +1,5 @@
 # track-face-config-api-ui
-API and Web Interface for Face Tracker
+API and Web Interface for Face Tracker.
 
 ## Requirements
 - Node.js > 6.10
